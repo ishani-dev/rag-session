@@ -1,1 +1,14 @@
-# rag-session
+ # rag-session
+![RAG - AIDriven Sri Lanka pptx](https://github.com/user-attachments/assets/a1696d00-c29e-43ef-8e32-69f97f2512c2)
+![RAG - AIDriven Sri Lanka pptx (1)](https://github.com/user-attachments/assets/ccc1f2a0-eb3c-4df7-8a07-60e77fc6f387)
+![RAG - AIDriven Sri Lanka pptx (2)](https://github.com/user-attachments/assets/137b17f1-5793-45da-9178-c113b1319777)
+![RAG - AIDriven Sri Lanka pptx (3)](https://github.com/user-attachments/assets/89d93060-d7cf-4851-aa4b-764637788901)
+![RAG - AIDriven Sri Lanka pptx (4)](https://github.com/user-attachments/assets/60deaf06-bff2-4ca4-9047-e9dde7a655c7)
+![RAG - AIDriven Sri Lanka pptx (5)](https://github.com/user-attachments/assets/fff381df-cf4b-4d16-9944-caba8269d7bc)
+![RAG - AIDriven Sri Lanka pptx (6)](https://github.com/user-attachments/assets/43dc54f4-328b-470a-85fc-b2411cb0ba22)
+![RAG - AIDriven Sri Lanka pptx (7)](https://github.com/user-attachments/assets/adaa24f6-505f-446f-b61a-ff126a216ec9)
+![RAG - AIDriven Sri Lanka pptx (8)](https://github.com/user-attachments/assets/854958f6-2539-43b0-b4ae-c3b0891cc478)
+![RAG - AIDriven Sri Lanka pptx (9)](https://github.com/user-attachments/assets/fad02b6e-4ba8-4eb2-b7d1-8b3b20d1dd1b)
+![RAG - AIDriven Sri Lanka pptx (10)](https://github.com/user-attachments/assets/9742b9e2-15ec-414b-90ef-9546f6b9e8db)
+![RAG - AIDriven Sri Lanka pptx (11)](https://github.com/user-attachments/assets/6c33508b-6975-4644-96db-d2fbe8e6b439)
+![RAG - AIDriven Sri Lanka pptx (12)](https://github.com/user-attachments/assets/bae62cff-fab4-4055-8780-196954e012e1)
