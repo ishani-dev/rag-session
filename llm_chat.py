@@ -2,7 +2,7 @@ import streamlit as st
 from llama_index.llms.groq import Groq
 
 # Set your Groq API Key
-GROQ_API_KEY = "your groq_api_key_here"
+GROQ_API_KEY = "YOUR_API_KEY_HERE"
 
 # Initialize the LLM
 llm = Groq(model="llama3-8b-8192", api_key=GROQ_API_KEY)
